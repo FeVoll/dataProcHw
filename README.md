@@ -3,7 +3,7 @@
 ## Hive
 
 - `generate_tables_and_import_data_hive.sql` — создание таблиц и импорт данных (`transactions_v2`, `logs_v2`).
-- `agg_hive.sql` — агрегации по транзакциям и заказам (Hive).
+- `agg_hive.sql` — агрегации по транзакциям (Hive).
 
 ## ClickHouse
 
