@@ -11,5 +11,5 @@
 - `agg_click.sql` — агрегации по заказам (ClickHouse).
 
 
-Дэшборд по подклчениям:
+## Дэшборд
 ![image](https://github.com/user-attachments/assets/15a468b9-0bde-4739-a307-9f473dc9787b)
