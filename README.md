@@ -9,3 +9,6 @@
 
 - `generate_tables_and_import_data_clickhouse.sql` — создание таблиц и импорт данных (`orders`, `order_items`).
 - `agg_click.sql` — агрегации по заказам (ClickHouse).
+
+
+![Uploading image.png…]()
